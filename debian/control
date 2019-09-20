@@ -1,0 +1,23 @@
+Source: python-simplenote
+Section: python
+Priority: optional
+Maintainer: Stefan van der Walt <stefanv@berkeley.edu>
+Build-Depends: debhelper (>= 12),
+               dh-python,
+               python3-all,
+               python3-setuptools,
+               python3-docutils,
+               python3-sphinx
+Standards-Version: 4.4.0
+Homepage: https://github.com/mrtazz/simplenote.py
+Vcs-Git: https://github.com/stefanv/simplenote.py -b debian
+Vcs-Browser: https://github.com/stefanv/simplenote.py/tree/debian
+
+Package: python3-simplenote
+Architecture: all
+Depends: ${python3:Depends}, ${sphinxdoc:Depends}, ${misc:Depends}
+Description: Python API wrapper for the Simplenote web service
+ simplenote.py is a Python library for accessing the simplenote.com
+ web service.  It provides API methods for getting a list of notes,
+ downloading a note, adding a note, updating a note, and
+ deleting a note.

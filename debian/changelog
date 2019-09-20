@@ -1,0 +1,5 @@
+python-simplenote (2.1.4-1) UNRELEASED; urgency=medium
+
+  * Initial release (to satisfy nvpy runtime requirement).
+
+ -- Stefan van der Walt <stefanv@berkeley.edu>  Thu, 19 Sep 2019 17:07:05 -0700

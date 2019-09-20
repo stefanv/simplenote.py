@@ -1,0 +1,3 @@
+python-simplenote source: testsuite-autopkgtest-missing
+python-simplenote source: debian-watch-does-not-check-gpg-signature
+python-simplenote source: upstream-metadata-file-is-missing
