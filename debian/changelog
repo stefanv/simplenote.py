@@ -1,4 +1,4 @@
-python-simplenote (2.1.4-1) UNRELEASED; urgency=medium
+python-simplenote (2.1.4-1) unstable; urgency=medium
 
   * Initial release (closes: #940811).
 
