@@ -2,6 +2,7 @@ Source: python-simplenote
 Section: python
 Priority: optional
 Maintainer: Stefan van der Walt <stefanv@berkeley.edu>
+Uploaders: Yaroslav Halchenko <debian@onerussian.com>
 Build-Depends: debhelper (>= 12),
                dh-python,
                python3-all,

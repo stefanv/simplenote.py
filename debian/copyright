@@ -4,7 +4,13 @@ Upstream-Contact: Daniel Schauenberg <d@unwiredcouch.com>
 Source: https://github.com/mrtazz/simplenote.py
 
 Files: *
-Copyright: 2011, Daniel Schauenberg
+Copyright: 2011-2019, Daniel Schauenberg
+License: MIT
+
+Files: debian/*
+Copyright: 2019 Stéfan van der Walt
+License: MIT
+
 License: MIT
  Permission is hereby granted, free of charge, to any person obtaining
  a copy of this software and associated documentation files (the
