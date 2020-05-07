@@ -3,7 +3,7 @@ Section: python
 Priority: optional
 Maintainer: Stefan van der Walt <stefanv@berkeley.edu>
 Uploaders: Yaroslav Halchenko <debian@onerussian.com>
-Build-Depends: debhelper (>= 12),
+Build-Depends: debhelper-compat (= 12),
                dh-python,
                python3-all,
                python3-setuptools,
