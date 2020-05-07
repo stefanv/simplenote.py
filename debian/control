@@ -12,7 +12,7 @@ Build-Depends: debhelper-compat (= 12),
 Standards-Version: 4.4.0
 Rules-Requires-Root: no
 Homepage: https://github.com/mrtazz/simplenote.py
-Vcs-Git: https://github.com/stefanv/simplenote.py -b debian
+Vcs-Git: https://github.com/stefanv/simplenote.py.git -b debian
 Vcs-Browser: https://github.com/stefanv/simplenote.py/tree/debian
 
 Package: python3-simplenote
