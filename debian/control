@@ -9,7 +9,7 @@ Build-Depends: debhelper-compat (= 12),
                python3-setuptools,
                python3-docutils,
                python3-sphinx
-Standards-Version: 4.4.0
+Standards-Version: 4.5.0
 Rules-Requires-Root: no
 Homepage: https://github.com/mrtazz/simplenote.py
 Vcs-Git: https://github.com/stefanv/simplenote.py.git -b debian
